@@ -3,7 +3,7 @@ variable "project" {
 }
 
 variable "domain" {
-  default = "terrasaurus.net"
+  default = "a11ywatch.com"
 }
 
 variable "credentials_file" {
@@ -19,7 +19,7 @@ variable "zone" {
 }
 
 variable "managed_zone" {
-  default = "terrasaurus-net"
+  default = "a11ywatch-net"
 }
 
 variable "ssl_policy" {
